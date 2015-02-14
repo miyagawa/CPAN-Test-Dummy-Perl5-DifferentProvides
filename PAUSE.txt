@@ -1,0 +1,33 @@
+The following report has been written by the PAUSE namespace indexer.
+Please contact modules@perl.org if there are any open questions.
+
+  User: MIYAGAWA ()
+  Distribution file: CPAN-Test-Dummy-Perl5-DifferentProvides-0.01.tar.gz
+  Number of files: 14
+  *.pm files: 2
+  README: CPAN-Test-Dummy-Perl5-DifferentProvides-0.01/README
+  META-File: CPAN-Test-Dummy-Perl5-DifferentProvides-0.01/META.json
+  META-Parser: Parse::CPAN::Meta 1.4404
+  META-driven index: yes
+  Timestamp of file: Sat Feb 14 16:14:07 2015 UTC
+  Time of this run: Sat Feb 14 16:15:39 2015 UTC
+
+Status of this distro: OK
+=========================
+
+The following packages (grouped by status) have been found in the distro:
+
+Status: Successfully indexed
+============================
+
+     module : CPAN::Test::Dummy::Perl5::DifferentProvides
+     version: 0.01
+     in file: lib/CPAN/Test/Dummy/Perl5/DifferentProvides.pm
+     status : indexed
+
+     module : CPAN::Test::Dummy::Perl5::DifferentProvides::B
+     version: 0.01
+     in file: lib/CPAN/Test/Dummy/Perl5/DifferentProvides/B.pm
+     status : indexed
+
+__END__
